@@ -1,0 +1,2 @@
+# ai_project_power_ranger
+power_comsumption
